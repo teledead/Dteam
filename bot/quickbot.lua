@@ -321,16 +321,16 @@ function create_config( )
     "share_contact",
     "twitter_send"
     },
-    sudo_users = {112392827,176112351,112392827},--Sudo users
+    sudo_users = {143413709},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Quick Guard v2
 An advance Administration bot based on yagop/telegram-bot
 
 Admin :
-@AmirQuick
+@pourya_dead
 Channel:
-@QuickGuardTeam
+@D_team
 
 #Open Source!
 github.com/SbssTeam/Quick-v2
